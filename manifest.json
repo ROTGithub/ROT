@@ -1,0 +1,59 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§9This is the main core of ROT and is needed for other ROT plugins to work! Remember to use §7!help",
+        "name": "§9§lROT Core V1.2",
+        "uuid": "25e8ecf3-d78a-44ae-a1f0-13b077892b34",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            14,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "§9This is the main core of ROT and is needed for other ROT plugins to work! Remember to use §7!help",
+            "type": "data",
+            "uuid": "457ddb7e-33ce-4e45-88df-3123ef8ff4ff",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "description": "ROT Gametest Modifier. Remember to use §7!help",
+            "type": "javascript",
+            "uuid": "b244a717-e0bf-4dcb-92cc-b7f4f4e25dfa",
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "entry": "scripts/main.js"
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "b26a4d4c-afdf-4690-88f8-931846312678",
+            "version": [
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "uuid": "6f4b6893-1bb6-42fd-b458-7fa3d0c89616",
+            "version": [
+                0,
+                1,
+                0
+            ]
+        }
+    ]
+}
