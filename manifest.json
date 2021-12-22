@@ -1,9 +1,9 @@
 {
     "format_version": 2,
     "header": {
-        "description": "§9This is the main core of ROT and is needed for other ROT plugins to work! Remember to use §7!help",
-        "name": "§9§lROT Core V1.2",
-        "uuid": "25e8ecf3-d78a-44ae-a1f0-13b077892b34",
+        "description": "§cWelcome to §4§lROT§r§c! §4§lROT§r§c is a Minecraft Bedrock addon designed to make §6§lYOUR§r§c Minecraft server §4§lBETTER§r§c! Remember to use \"§7!help§c\"!",
+        "name": "§4§lROT V2, On the board!",
+        "uuid": "061d4ff4-60f9-11ec-8607-0242ac130002",
         "version": [
             1,
             0,
@@ -17,9 +17,9 @@
     },
     "modules": [
         {
-            "description": "§9This is the main core of ROT and is needed for other ROT plugins to work! Remember to use §7!help",
+            "description": "§cThis is the Bedrock Mini Games BP. Remember to use §7!help",
             "type": "data",
-            "uuid": "457ddb7e-33ce-4e45-88df-3123ef8ff4ff",
+            "uuid": "061d530a-60f9-11ec-8607-0242ac130002",
             "version": [
                 1,
                 0,
@@ -27,9 +27,9 @@
             ]
         },
         {
-            "description": "ROT Gametest Modifier. Remember to use §7!help",
+            "description": "BM Gametest Modifier. Remember to use §7!help",
             "type": "javascript",
-            "uuid": "b244a717-e0bf-4dcb-92cc-b7f4f4e25dfa",
+            "uuid": "061d5440-60f9-11ec-8607-0242ac130002",
             "version": [
                 1,
                 0,

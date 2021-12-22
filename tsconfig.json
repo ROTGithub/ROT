@@ -7,11 +7,13 @@
         "allowSyntheticDefaultImports": true,
         "noImplicitAny": true,
         "preserveConstEnums": true,
+        "removeComments": true,
         "sourceMap": false,
         "outDir": "scripts"
     },
     "include": [
-        "src"  
+        "src",
+        "node_modules/@types/mojang-minecraft/index.d.ts"
     ],
     "exclude": [
         "scripts"

@@ -1,0 +1,27 @@
+Welcome to ROT's code!
+I remember when I used to go inside packs and look around in them, it was very fun, good times. You know, I feel bad for the people who just unziped the pack and deleted the "hey you.txt" and the copyright. 1, they miss out on this awesome story, 2 once they start editing the pack and released "They're own version", they'll get copyrighted. So your either here for 3 reasons... You want to steal ROT's code, you want to explore around the pack and figure out how it works, or someone told you there are eastereggs around ROT's code. Well, I'll tell you everything you need to know! For those who want to steal my code, WHY? I'll one day find that you stole code and the police and crap will get involved. The only people that can edit ROT's code is Notbeer, me (moises), and TRASH. Oh yeah, I geuss Nightwalker can edit it for personal use. Next, yes, there are eastereggs in the kode and you can look for them. YOU CANNOT edit the code while looking for a easteregg. You want to explore things, go ahead. No edition code!
+
+Btw, on the Discord, there's a ROT version you can edit and make your own cmds!
+
+/*
+ROT Developers and Contributors:
+Moises (OWNER/CEO), 
+TRASH (DEVELOPER),
+notbeer (Most of ROT's Structure code),
+Nightwalker L.o.t.s (ROT Anti Cheat Dev),
+UnknownCatastrophe (ROT Anti Cheat Dev),
+VUnkownPersonV (ROT Anti Cheat Dev)
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+__________ ___________________
+\______   \\_____  \__    ___/
+ |       _/ /   |   \|    |   
+ |    |   \/    |    \    |   
+ |____|_  /\_______  /____|   
+        \/         \/         
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+© Copyright 2021 all rights reserved by Moisesgamingtv9. Do NOT steal, copy the code, or claim it as yours!
+Please message moisesgamingtv9#8583 on Discord, or join the ROT discord: https://discord.com/invite/2ADBWfcC6S
+Website: https://rotmc.netlify.app/index.html
+Docs: https://docs.google.com/document/d/1hasFU7_6VOBfjXrQ7BE_mTzwacOQs5HC21MJNaraVgg
+Thank you!
+*/
