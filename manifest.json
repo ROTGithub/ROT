@@ -2,36 +2,36 @@
     "format_version": 2,
     "header": {
         "description": "§cWelcome to §4§lROT§r§c! §4§lROT§r§c is a Minecraft Bedrock addon designed to make §6§lYOUR§r§c Minecraft server §4§lBETTER§r§c! Remember to use \"§7!help§c\"!",
-        "name": "§4§lROT V2, On the board!",
-        "uuid": "061d4ff4-60f9-11ec-8607-0242ac130002",
+        "name": "§4§lROT V2!",
+        "uuid": "f83550d8-b507-4bb9-8ed3-80b20b6b0759",
         "version": [
-            1,
+            2,
             0,
             0
         ],
         "min_engine_version": [
             1,
-            14,
+            18,
             0
         ]
     },
     "modules": [
         {
-            "description": "§cThis is the Bedrock Mini Games BP. Remember to use §7!help",
+            "description": "§c§lThis is the Bedrock Mini Games BP. Remember to use §7!help",
             "type": "data",
-            "uuid": "061d530a-60f9-11ec-8607-0242ac130002",
+            "uuid": "29a2c86a-6cac-4a42-9e20-0c615f5c2d05",
             "version": [
-                1,
+                2,
                 0,
                 0
             ]
         },
         {
-            "description": "BM Gametest Modifier. Remember to use §7!help",
+            "description": "§c§lROT Gametest Modifier. Remember to use §7!help",
             "type": "javascript",
-            "uuid": "061d5440-60f9-11ec-8607-0242ac130002",
+            "uuid": "ef915fbc-dcf2-488d-9800-3e995b7a5701",
             "version": [
-                1,
+                2,
                 0,
                 0
             ],

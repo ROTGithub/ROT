@@ -17,7 +17,6 @@ Website: https://rotmc.netlify.app/index.html
 Docs: https://docs.google.com/document/d/1hasFU7_6VOBfjXrQ7BE_mTzwacOQs5HC21MJNaraVgg
 Thank you
 */
-import { Server, Lang, } from '../../../Minecraft.js';
 var CMDname = "killtext"
 const registerInformation = {
     cancelMessage: true,
